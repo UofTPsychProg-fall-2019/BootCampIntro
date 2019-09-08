@@ -1,4 +1,8 @@
 (1) dosa
 (2) dan dan noodles
+<<<<<<< HEAD
 (3) pupusas
 (4) donuts
+=======
+(3) pizza
+>>>>>>> 36617af923111e5b6a93a1a723a2de9cf1eccf1e
