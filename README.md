@@ -1,2 +1,2 @@
 # BootCampIntro
- A toy repository for learning github
+ A toy repository for learning the basics of github
