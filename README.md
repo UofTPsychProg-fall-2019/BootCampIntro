@@ -1,2 +1,2 @@
 # BootCampIntro
- A toy repository for learning github and team work
+ A toy repository for learning github and team work (now with Mike)
